@@ -1,0 +1,2 @@
+generate_cube("stagex"+to_string(i)+"y"+to_string(j),2*i,2*j,0,1,1,0.1,gold,gold,gold,"stage",0);
+
